@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1515387938 source:e:\project\cpp\astart\main.cpp
+	<stdlib.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	"CAstar.h"
+
+1515383578 e:\project\cpp\astart\include\castar.h
+	<stdlib.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	"CPoint.h"
+
+1515382822 e:\project\cpp\astart\include\cpoint.h
+	<stdlib.h>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1515383560 source:e:\project\cpp\astart\src\castar.cpp
+	"CAstar.h"
+
+1515383704 source:e:\project\cpp\astart\src\cpoint.cpp
+	"CPoint.h"
+
